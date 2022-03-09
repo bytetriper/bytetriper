@@ -1,0 +1,4 @@
+\contentsline {section}{\numberline {1}Regular Homework Problems}{2}{}%
+\contentsline {section}{\numberline {2}Extra Problems}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Extra Problems}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Computer-generated Graphs}{8}{}%
