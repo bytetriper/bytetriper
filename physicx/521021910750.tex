@@ -1,0 +1,104 @@
+\documentclass[UTF8]{ctexart}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\title{Physics Homework \#2\\}
+\author{郑博阳\\521021910750}
+\date{2022/3/12}
+\begin{document}
+\maketitle
+\tableofcontents
+\newpage
+\section{Solution of 2.2}
+\subsection{}
+\newcommand\degree{^\circ}
+对于整个系统，根据牛顿第二定律，有：
+        \[F=(m_1+m_2)a\]
+    \qquad 于是解得：
+        \[a=\frac{F}{m_1+m_2}\]
+\subsection{}
+对于弹簧，其受到拉力等于$m_2$受到拉力，因此根据牛顿第二定律，有：
+        \[F=m_2a\]
+    \qquad 而又据胡克定律知：
+        \[F=kx\]
+    \qquad 解得：
+        \[x=\frac{m_2F}{k(m_1+m_2)}\]
+\section{Solution of 2.7}
+ 对于$ m_2 $,对其进行受力分析，得到：\\
+\qquad 在水平方向上：
+        \[m_2a=Nsin{\theta}\]
+\qquad 在竖直方向上：
+        \[m_2g=N\cos{\theta}+N_m2\]
+\qquad 对于整体又有：
+        \[F=(m_1+m_2)a\]
+        \[N_{m1}+N_{m2}=(m_1+m_2)g\]
+        \qquad 最后解得：
+        \[N_{m2}=m_2g-\frac{m_2F}{(m_1+m_2)\tan{\theta}}\]
+        \[N_{m1}=m_1g+\frac{m_2F}{(m_1+m_2)\cot{\theta}}\]
+\section{Solution of 2.9}
+\qquad 对物体做受力分析：
+        \[ma=mg-F_b-F\]
+        \[F=kv\]
+        \[a=\dot v\]
+\qquad        解得：
+\large
+        \[v_t=(1-e^{-\frac{t}{m}})(mg-F_b)\]
+\normalsize
+\section{Solution of 2.11}
+ 以向上平动且加速度为$a$的滑轮作为静止参考系：
+\\ \hspace{5cm} 对于滑块A,B:
+        \[(m_A+m_B)a=(m_Bg-m_Ag+m_Ba-m_Aa)\]
+\qquad 解得：
+        \[a=\frac{m_B-m_A}{m_B+m_A}(g+a) \mbox{向下}\]
+\qquad 因此在地面参考系中：
+\large
+        \[a_{ground}=\frac{m_B-m_A}{m_B+m_A}(g+a)-a\]
+\normalsize
+        \qquad (此处假设$m_B>m_A$)
+\section{Solution of 2.12}
+一开始看错题了，以为小球没在桌面上，算裂开了...\\
+\hspace{5cm} 对于小球，做受力分析：
+        \[N=m\frac{v^2}{R}\]
+        \[f=\mu N\]
+        \[ma=f\]
+\qquad 解微分方程得到：
+        \[v_t=\frac{v_0R}{R+\mu tv_0}\]
+        \[s=\int_{0}^{t} v\,dv\]
+\qquad        于是解得：
+        \[s=\frac{R}{\mu}\ln{(1+\frac{\mu v_0t}{R})}\]
+\section{Solution of 2.13}
+ 对于小球，做受力分析：
+        \[a=\frac{Ae_r}{r}\]
+\qquad 而又有关系式：
+        \[a=\frac{\mathrm{d} v}{\mathrm{d} t}=
+            \frac{\mathrm{d} v}{\mathrm{d} r}\, \frac{\mathrm{d} r}{\mathrm{d} t}\]
+\qquad 故得到：
+        \[v\frac{\mathrm{d} v}{\mathrm{d} r}=\frac{Ae_r}{r}\]
+\qquad 解微分方程,代入初值条件得到：
+        \[v=\sqrt{2\ln(Ae_r\frac{r}{r_0})}\]
+\section{Solution of 系列化习题2.12}
+此题为$2.11$简化版，解法同$2.11$
+\qquad    解得：
+        \[a=\frac{m_2-m_1}{m_2+m_1}g\]
+\section{Solution of 补充题$1$}
+小车在竖直方向上做匀加速直线运动，设其加速度为$a$:
+        \[\frac{1}{2}at^2=h\]
+        \[v_0t=l\]
+\qquad 而对小车竖直方向受力分析，有；
+        \[F_{float}-G=ma\]
+\qquad 解得：      
+        \[F_{float}=mg+m\frac{2h{v_0}^2}{l^2}\]
+\section{Solution of 补充题$2$}
+\subsection{}
+释放瞬间，对于$m_1 \mbox{与} m_2$:
+        \[a=g\sin{\theta}\]
+\qquad  对于$m_2$,其瞬间加速度只能为零，故:
+        \[F_{pull}=m_2g \qquad \mbox{向上}\]
+\subsection{}
+释放瞬间，对于$m_1\$m_2$:
+        \[a=g\sin{\theta}\]
+\qquad  对于$m_2$,若使其与$m_1$相对静止，则其加速度也需为$a$:\\
+\qquad  对$m_2$受力分析(设$\vec{F_{pull}}\mbox{与杆夹角为}\alpha$)：
+        \[\vec{F_{pull}}+\vec{G}=\vec{g\sin{\alpha}}\]
+\qquad   解得：
+        \[\alpha=90\degree\]
+\end{document}
