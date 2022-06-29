@@ -1,6 +1,15 @@
 ### Hi there 👋
-** I'm byte,and I'm currently working on getting github set**
-
+ I'm byte, new member in $SJTU ACM$ class
+ 
+ Skill Stack: 
+ * Cpp
+ * python
+ * Some HTML related
+ * latex
+ * md
+ ..
+ 
+ Also see my blog at [here](https://bytetriper.github.io/)👯
 <!--
 **bytetriper/bytetriper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
