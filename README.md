@@ -1,15 +1,8 @@
-### Hi there 👋
- I'm byte, new member in $SJTU ACM$ class
+Junior Year student in SJTU.
+Intern at Shanghai AI Lab.
  
- Skill Stack: 
- * Cpp
- * python
- * Some HTML related
- * latex
- * md
- ..
- 
- Also see my blog at [here](https://bytetriper.github.io/)👯
+see my website at [Here](bytetriper.github.io)👯
+
 <!--
 **bytetriper/bytetriper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
