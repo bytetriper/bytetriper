@@ -1,6 +1,6 @@
 Junior Year student in SJTU.
 
-Intern at Shanghai AI Lab. Member of XPixel Lab, advised by [Chao Dong](http://xpixel.group/2010/01/20/chaodong.html).
+Intern at Shanghai AI Lab. Member of [XPixel Group](http://xpixel.group/), advised by [Chao Dong](http://xpixel.group/2010/01/20/chaodong.html).
  
 see my website [Here](https://bytetriper.com.cn/)👯
 
