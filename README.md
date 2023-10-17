@@ -4,5 +4,5 @@ Intern at Shanghai AI Lab. Member of [XPixel Group](http://xpixel.group/), advis
  
 see my website [Here](https://bytetriper.com.cn/)👯
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=tokyonight)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytetriper&show_icons=true&theme=tokyonight)
 
