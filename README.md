@@ -1,4 +1,4 @@
-Junior Year student in SJTU.
+Senior Year student in SJTU.
 
 Intern at NYU Courant. Member of VisionX, advised by [Saining Xie](https://sainingxie.com/)
 
